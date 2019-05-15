@@ -7,7 +7,6 @@ import Radio from "@material-ui/core/Radio";
 import Select from "@material-ui/core/Select";
 import Checkbox from "@material-ui/core/Checkbox";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
-import FormControl from "@material-ui/core/FormControl";
 
 const Paper = styled(_Paper)`
   padding: 30px;
